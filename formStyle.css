@@ -1,0 +1,42 @@
+
+body {
+  font-family: monospace;
+  text-align: justify;
+  padding-left: 400px;
+  padding-right: 400px;
+  background-color: black;
+  background-image: url("/images/car-background.jpg");
+
+}
+
+h1 {
+  text-align: center;
+  color:blue;
+}
+
+p {
+  text-align: center;
+  font-size: 15px;
+  color:blue;
+  font-weight: bold;
+}
+
+label {
+  display: block;
+  font-size: 20PX;
+}
+input {
+  display: block;
+}
+#number {
+  width:165px;
+}
+
+form {
+
+  background-color: rgba(128, 39, 217, 0.8);
+  padding-left: 300px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
